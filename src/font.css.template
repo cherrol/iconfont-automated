@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../fonts/{{ PROJECT_NAME }}.eot");
+  src: url("../fonts/{{ PROJECT_NAME }}.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/{{ PROJECT_NAME }}.woff2") format("woff2"),
+    url("../fonts/{{ PROJECT_NAME }}.woff") format("woff"),
+    url("../fonts/{{ PROJECT_NAME }}.ttf") format("truetype"),
+    url("../fonts/{{ PROJECT_NAME }}.svg#davyin") format("svg");
+}
+
+{{ FONT_ICONS }}

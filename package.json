@@ -1,0 +1,13 @@
+{
+  "name": "iconfont-automated",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "node-stream-zip": "^1.15.0",
+    "selenium-webdriver": "^4.24.0"
+  }
+}
