@@ -1,6 +1,6 @@
 {
   "name": "iconfont-automated",
-  "module": "index.js",
+  "module": "src/index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"
